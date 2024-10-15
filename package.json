@@ -1,16 +1,16 @@
 {
-  "name": "react-native-spotify-remote",
+  "name": "@vanlesson/react-native-spotify-remote",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cjam/react-native-spotify-remote.git"
+    "url": "https://github.com/vanLesson/react-native-spotify-remote.git"
   },
   "bugs": {
-    "url": "https://github.com/cjam/react-native-spotify-remote/issues"
+    "url": "https://github.com/vanLesson/react-native-spotify-remote/issues"
   },
-  "version": "1.0.0-1",
+  "version": "1.0.6",
   "description": "React Native wrapper around the Spotify Remote SDK",
   "author": {
-    "name": "Colter McQuay"
+    "name": "vanlesson"
   },
   "licenses": [
     {
@@ -52,15 +52,20 @@
     "contribute": "all-contributors add && all-contributors generate"
   },
   "peerDependencies": {
-    "react-native": ">=0.60"
+    "react-native": "^0.75.4"
   },
-  "dependencies": {},
   "devDependencies": {
     "@release-it/keep-a-changelog": "^2.2.2",
-    "@types/react-native": "^0.60.0",
+    "@types/react-native": "^0.60.31",
     "all-contributors-cli": "^6.14.2",
+    "react-native": "^0.65.0",
+
     "concurrently": "^5.0.2",
     "release-it": "^14.6.1",
+    "rollup": "^4.9.1",
+    "rollup-plugin-copy": "^3.5.0",
+    "rollup-plugin-folder-input": "^1.0.1",
+    "rollup-plugin-ts": "^3.4.5",
     "typedoc": "^0.20.24",
     "typescript": "^4.1.3"
   },
