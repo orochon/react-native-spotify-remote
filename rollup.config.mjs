@@ -37,11 +37,11 @@ export default {
     json(),
     copy({
       targets: [
-        { src: 'ios/**/*', dest: 'lib/android' },
-        { src: 'android/**/*', dest: 'lib/ios' },
+        { src: 'ios/**/*', dest: 'lib/ios' },
+        { src: 'android/**/*', dest: 'lib/android' },
         { src: 'package.json', dest: 'lib' },
         { src: 'README.md', dest: 'lib' },
-        { src: 'RNAppleMusic.podspec', dest: 'lib'},
+        { src: 'RNSpotifyRemote.podspec', dest: 'lib'},
       ]
     })
   ],
