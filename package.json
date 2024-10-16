@@ -7,7 +7,7 @@
   "bugs": {
     "url": "https://github.com/vanLesson/react-native-spotify-remote/issues"
   },
-  "version": "1.0.11",
+  "version": "1.0.10",
   "description": "React Native wrapper around the Spotify Remote SDK",
   "author": {
     "name": "vanlesson"
