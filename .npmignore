@@ -21,3 +21,4 @@ gradlew.bat
 local.properties
 *.iml
 yarn-error.log
+.npmrc
