@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.11] - 2024-10-16
+
 ### Gradle Change
 
 - Updated gradle to import sdks using sourceSets 
