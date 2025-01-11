@@ -7,7 +7,7 @@
   "bugs": {
     "url": "https://github.com/vanLesson/react-native-spotify-remote/issues"
   },
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "React Native wrapper around the Spotify Remote SDK",
   "author": {
     "name": "vanlesson"
@@ -67,7 +67,7 @@
     "rollup-plugin-folder-input": "^1.0.1",
     "rollup-plugin-ts": "^3.4.5",
     "typedoc": "^0.20.24",
-    "typescript": "^4.1.3"
+    "typescript": "^5.7.3"
   },
   "release-it": {
     "hooks": {
