@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Updated deps
 
+## [1.0.12] - 2025-01-11
+
+- Updated deps
+
 ## [1.0.11] - 2024-10-16
 
 ### Gradle Change
