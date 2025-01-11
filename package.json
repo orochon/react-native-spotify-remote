@@ -18,6 +18,9 @@
       "url": "https://www.opensource.org/licenses/mit-license.php"
     }
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "nativePackage": true,
   "license": "ISC",
   "keywords": [
