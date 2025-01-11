@@ -52,7 +52,7 @@
     "contribute": "all-contributors add && all-contributors generate"
   },
   "peerDependencies": {
-    "react-native": "^0.75.4"
+    "react-native": "^0.76.3"
   },
   "devDependencies": {
     "@release-it/keep-a-changelog": "^2.2.2",
