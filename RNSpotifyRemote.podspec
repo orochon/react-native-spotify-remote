@@ -16,7 +16,6 @@ Pod::Spec.new do |s|
   s.source_files  = "ios/*.{h,m}","ios/external/SpotifySDK/SpotifyiOS.framework/**/Headers/*.{h,m}"
   s.preserve_path = "ios/external/SpotifySDK/SpotifyiOS.framework"
   s.vendored_frameworks = "ios/external/SpotifySDK/SpotifyiOS.framework"
-  s.dependency 'RNEventEmitter'
   s.dependency 'React-Core'
 
 end
