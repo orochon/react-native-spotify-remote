@@ -57,7 +57,7 @@ repositories {
 
 dependencies {
     implementation "com.spotify.android:auth:2.0.2"
-    implementation (files("external/SpotifySDK/app-remote-lib/spotify-app-remote-release-0.7.2.aar"))
+    implementation project(':react-native-spotify-remote:spotify-app-remote')
 
     // Інші залежності
     implementation "com.google.code.gson:gson:2.8.9"
